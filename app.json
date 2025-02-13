@@ -25,7 +25,7 @@
 "ANTILINK_GROUP":
     {
       "description":"Enter yes for your bot to auto delete links and remove link senders",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 "MENUTYPE":
